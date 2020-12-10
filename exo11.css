@@ -1,0 +1,7 @@
+.titreNom { color : text-shadow}
+h2 span {text-decoration: underline;}
+div h1 { color : white;
+    background-color : rgb(13, 137, 153);}
+.annee { font-weight: bold;
+        text-shadow : 1px 1px 2px red;}
+.Lieu { color : rgb(13, 137, 153);}

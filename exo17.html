@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="exo16.css">
+        <title>Exercice 16</title>
+        
+    </head>
+    
+    <body>
+        <form method=get action=login.php>
+            
+                <legend>Inscriptions</legend>
+            <br>
+                <label for="nom">Prénom :</label>
+                <input type="text" id="name" name="name">
+            <br>
+                <label for="email">MDP :</label>
+                <input type="text" id="email" name="email">
+            <br>
+                <label for="monAssociation">Association :</label>
+                <input list="association" id="monAssociation" name="monAssocation"/>
+                    <datalist id="association">
+                        <option value="Asso 1">
+                        <option value="Asso 2">
+                        <option value="Asso 3">
+                        
+            </datalist>
+        </form>
+
+    </body>
+</html>

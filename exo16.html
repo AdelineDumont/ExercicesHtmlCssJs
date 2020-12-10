@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="exo16.css">
+        <title>Exercice 16</title>
+        
+    </head>
+    
+    <body>
+        <form method=get action=login.php>
+            <fieldset>
+                <legend>Votre identité</legend>
+            <br>
+                <label for="nom">1. Nom :</label>
+                <input type="text" id="name" name="name">
+            <br>
+                <label for="email">2. Email :</label>
+                <input type="text" id="email" name="email">
+            <br>
+                <label for="email">3. Téléphone :</label>
+                <input type="text" id="tel" name="tel">
+            <br>
+
+            </fieldset>
+            <fieldset>
+                <legend>Votre adresse</legend>
+            <br>
+                <label for="adresse">1. Adresse :</label>
+                <textarea name="textarea" rows="10" cols="50"></textarea>
+            <br>
+                <label for="code">2. Code postal :</label>
+                <input type="text" id="code" name="code">
+            <br>
+                <label for="pays">3. Pays :</label>
+                <input type="text" id="pays" name="pays">
+            <br>
+            </fieldset>
+            <fieldset>
+        <legend>Infos CB</legend>
+                <br>
+                <fieldset>
+                    
+                    <label for="cb">1. Type de CB :</label>
+                    <input type="text" id="cb" name="cb">
+                        <input type="radio" id="visa" name="carte" value="visa">
+                        <label for="contactChoice1">Visa</label>
+                        <input type="radio" id="contactChoice2" name="carte" value="amex">
+                        <label for="contactChoice2">AmEx</label>
+                        <input type="radio" id="contactChoice3" name="carte" value="mastercard">
+                        <label for="contactChoice3">Mastercard</label>
+                    
+                    </fieldset>
+                <br>
+                    <label for="numero">2. Numéro de carte :</label>
+                    <input type="text" id="numero" name="numero">
+                <br>
+                    <label for="codeSecul">3. Code de sécurité :</label>
+                    <input type="text" id="codeSecu" name="codeSecu">
+                <br>
+                    <label for="NomPorteur">4. Nom du porteur :</label>
+                    <input type="text" id="NomPorteur" name="NomPorteur">
+            </fieldset>
+        </form>
+
+    </body>
+</html>

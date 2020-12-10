@@ -1,0 +1,17 @@
+#Image1{
+    background-color: red;
+    width: 100px;height: 100px;
+    display: inherit;
+}
+
+#Image2{
+    background-color: black;
+    width: 100px;height: 100px;;
+    display:none;
+}
+
+#Image3{
+    background-color:pink;
+    width: 100px;height: 100px;;
+    display:none;
+}

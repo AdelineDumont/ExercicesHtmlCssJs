@@ -1,0 +1,20 @@
+.paragraphe1 { font-family : Arial ;
+                font-size : 12 px ;
+                font-weight : bold ;}
+
+.paragraphe2 { font-family : Verdana ;
+                font-size : 18 px ;
+                font-style : italic ;
+                font-weight : 400 ;}
+
+.paragraphe3 { font-family : Courier New ;
+                font-size : 12 px ;
+                background-color : cadetblue ;
+                color : white ;}
+.paragraphe4 { font-family : Verdana ;
+                font-size : 16 px ;
+                background-color : black ;
+                color : white ;
+                text-decoration: underline;
+                text-align: right;}
+        
