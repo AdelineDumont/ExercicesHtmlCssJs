@@ -1,0 +1,95 @@
+#ConteneurRectBleu {
+    background-color: blue;
+    width: 1000px;height: 500px;
+    display :flex; 
+    flex-direction : column;
+    justify-content : space-around;
+    align-items : center;
+
+}
+
+#RectBlanc {
+    background-color: white;
+    width: 800px;height: 50px;
+    display : flex;
+    flex-direction: row;
+    align-items : center;
+    justify-content : space-between;
+ 
+}
+
+#Ligne1 {
+    width: 800px;height: 50px;
+    display : flex;
+    align-items : center;
+    justify-content : space-between;
+ 
+}
+
+#Ligne2 {
+    width: 800px;height: 50px;
+    display : flex;
+    align-items : center;
+    justify-content : space-between;
+ 
+}
+
+
+#RectJaune1 {
+    background-color: yellow;
+    width: 300px;height: 150px;
+}
+
+#RectJaune2 {
+    background-color: yellow;
+    width: 300px;height: 150px;
+}
+
+#RectVert1 {
+    background-color: green;
+    width: 300px;height: 150px;
+    display : flex;
+    flex-direction: column;
+    align-items : center;
+    justify-content : space-around;
+}
+
+#RectVert2 {
+    background-color: green;
+    width: 300px;height: 150px;
+    display : flex;
+    flex-direction: column;
+    align-items : center;
+    justify-content : space-around;
+}
+
+
+#RectRose1 {
+    background-color: fuchsia;
+    width: 100px;height: 40px;
+}
+
+#RectRose2 {
+    background-color: fuchsia;
+    width: 100px;height: 40px;
+}
+
+#RectRose3 {
+    background-color: fuchsia;
+    width: 100px;height: 40px;
+}
+
+#RectRouge1 {
+    background-color: red;
+    width: 100px;height: 40px;
+}
+
+#RectRouge2 {
+    background-color: red;
+    width: 100px;height: 40px;
+}
+
+#RectRouge3 {
+    background-color: red;
+    width: 100px;height: 40px;
+}

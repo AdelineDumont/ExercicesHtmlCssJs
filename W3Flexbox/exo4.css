@@ -1,0 +1,62 @@
+#ConteneurRectBleu {
+    background-color: blue;
+    width: 700px;height: 600px;
+    display :flex; 
+    flex-direction : column;
+    justify-content : space-around;
+    align-items : center;
+
+}
+
+#RectRose1 {
+    background-color: fuchsia;
+    width: 540px;height: 90px;
+    display : flex;
+    flex-direction : row;
+    justify-content : space-around;
+    align-items : center;
+ 
+}
+
+#RectRose2 {
+    background-color: fuchsia;
+    width: 540px;height: 300px;
+    display : flex;
+    flex-direction : row;
+    justify-content : space-around;
+    align-items : center;
+ 
+}
+
+#RectRose3 {
+    background-color: fuchsia;
+    width: 540px;height: 90px;
+    display : flex;
+    flex-direction : row;
+    justify-content : flex-end;
+    align-items : center;
+    padding : 5px;
+ 
+}
+
+
+
+#RectJaune {
+    background-color: yellow;
+    width: 100px;height: 80px;
+}
+
+#RectVert1 {
+    background-color: green;
+    width: 200px;height: 200px;
+}
+
+#RectVert2 {
+    background-color: green;
+    width: 200px;height: 200px;
+}
+
+#RectRouge {
+    background-color: red;
+    width: 100px;height: 80px;
+}

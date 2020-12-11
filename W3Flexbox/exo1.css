@@ -1,0 +1,60 @@
+#ConteneurRectBleu {
+    background-color: blue;
+    width: 1000px;height: 500px;
+    display :flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+#RectRose {
+    background-color: pink;
+    width: 950px;height: 200px;
+    display : flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+
+#RectVert {
+    background-color: green;
+    width: 950px;height: 200px;
+
+    
+}
+
+
+
+
+
+
+#RectRouge1 {
+    background-color: red;
+    width: 100px;height: 100px;
+    
+}
+
+#RectRouge2{
+    background-color: red;
+    width: 100px;height: 100px;
+
+}
+
+
+
+#RectJaune1 {
+    background-color: yellow;
+    width: 100px;height: 100px;
+
+}
+
+#RectJaune2 {
+    background-color: yellow;
+    width: 100px;height: 100px;
+    
+
+}
