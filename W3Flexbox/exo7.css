@@ -10,3 +10,13 @@
     align-items: center;
     padding : 15px;
 }
+
+.Titres {
+    font-size: 15px;
+}
+
+.textes {
+    font-size: 8px;
+}
+
+i { font-size : 30px ;}
